@@ -43,9 +43,9 @@ nav ul li a{
     border-radius: 3px;
     text-transform: uppercase;
 }
-
+/* link aktive */
 a.active,a:hover{
-    background: brown;
+    background:#0000ff;
     transition: 5s;
-    
+
 }
